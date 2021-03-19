@@ -11,7 +11,7 @@
           <h3>Boxed Water</h3>
           <span>Web</span>
         </div>
-        <img class="img-fluid" src="assets/img/img_1.jpg" />
+        <img class="img-fluid" src="http://placehold.it/300x300" />
       </a>
     </div>
     <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
@@ -20,7 +20,7 @@
           <h3>Build Indoo</h3>
           <span>Photography</span>
         </div>
-        <img class="img-fluid" src="assets/img/img_2.jpg" />
+        <img class="img-fluid" src="http://placehold.it/300x300" />
       </a>
     </div>
     <div class="item branding col-sm-6 col-md-4 col-lg-4 mb-4">
@@ -29,7 +29,7 @@
           <h3>Cocooil</h3>
           <span>Branding</span>
         </div>
-        <img class="img-fluid" src="assets/img/img_3.jpg" />
+        <img class="img-fluid" src="http://placehold.it/300x300" />
       </a>
     </div>
     <div class="item design col-sm-6 col-md-4 col-lg-4 mb-4">
@@ -38,7 +38,7 @@
           <h3>Nike Shoe</h3>
           <span>Design</span>
         </div>
-        <img class="img-fluid" src="assets/img/img_4.jpg" />
+        <img class="img-fluid" src="http://placehold.it/300x300" />
       </a>
     </div>
     <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
@@ -47,7 +47,7 @@
           <h3>Kitchen Sink</h3>
           <span>Photography</span>
         </div>
-        <img class="img-fluid" src="assets/img/img_5.jpg" />
+        <img class="img-fluid" src="http://placehold.it/300x300" />
       </a>
     </div>
     <div class="item branding col-sm-6 col-md-4 col-lg-4 mb-4">
@@ -56,7 +56,7 @@
           <h3>Amazon</h3>
           <span>brandingn</span>
         </div>
-        <img class="img-fluid" src="assets/img/img_6.jpg" />
+        <img class="img-fluid" src="http://placehold.it/300x300" />
       </a>
     </div>
   </div>
@@ -66,4 +66,4 @@
 export default {};
 </script>
 
-<style></style>
+<style scoped></style>

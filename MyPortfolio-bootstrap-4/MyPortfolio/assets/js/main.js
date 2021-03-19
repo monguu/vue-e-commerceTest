@@ -1,9 +1,10 @@
 /**
-* Template Name: MyPortfolio - v2.2.1
-* Template URL: https://bootstrapmade.com/myportfolio-bootstrap-portfolio-website-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+ * Template Name: MyPortfolio - v2.2.1
+ * Template URL: https://bootstrapmade.com/myportfolio-bootstrap-portfolio-website-template/
+ * Author: BootstrapMade.com
+ * License: https://bootstrapmade.com/license/
+ */
+/* eslint-disable */
 (function($) {
   "use strict";
 
